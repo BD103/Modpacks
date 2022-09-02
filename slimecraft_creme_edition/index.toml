@@ -1,0 +1,74 @@
+hash-format = "sha256"
+
+[[files]]
+file = "LICENSE"
+hash = "f9b59df95dd561121046234dfccf81b270deec1acfd12d68c6fc252a141222d6"
+
+[[files]]
+file = "icon.png"
+hash = "05f4c61cbf3ef03b78a69cd9d7b573d37edfd5b38055ac06a09423c6700e0f50"
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "6aac69056ce402adc693c3bdcce32ac7b9674362889acdf411f714ecf790b1c6"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "158c40f09b2ed4fe14f5f2925751796fe11f6baee7e1ac7f35931ad831631a3d"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "ea127e8f74006f3a9ce099f9e96adaa3b3f4f281231ece703c4e7f9732137ebd"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "83541b1d3e1e936638a6938eb505bf0f508c13aed7f8416af8d064ffc7cda4dc"
+metafile = true
+
+[[files]]
+file = "mods/logical-zoom.pw.toml"
+hash = "ceb6914dc615c4af05e942bb82011dc7d69f8a5051d35ddbaf958419d04b18a3"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "8f501b0b0f968e3b4819219c5fd5c656500bb0a2736cafff092ce7279fe85574"
+metafile = true
+
+[[files]]
+file = "mods/phosphor.pw.toml"
+hash = "f257c1d69a789d7ddcb0578d5987a7fc2eaf1681f1718600c51bd2ce6bce5f19"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "6c2076de008ae0e5dec7990346fb74b77d3b774b6f58ba92e03655b6508d059a"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "d1480fd38a1ac53311baa2d57b92556834372f6ac04c355169441df9a59a161c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/BD103s Picks.zip"
+hash = "8ac2da4408d70826f1b62b48d7b992bae1ef0d43c929dd641b40d68d7af9102b"
+
+[[files]]
+file = "resourcepacks/Clean Minecraft.zip"
+hash = "790e58d218c944c3c66b0af6fe65f8d498889ef4ccefe5733c9afa037fc0b1f9"
+
+[[files]]
+file = "resourcepacks/Fullbright.zip"
+hash = "78e8871f95576402bff75cf8d6dc44031091f6401d71495e250250e32e060b46"
+
+[[files]]
+file = "resourcepacks/Hardcore Darkness.zip"
+hash = "20d045a968abf0b0adfec87beda5353f6fcbcb54a0ed7b105687bfc305cbf066"
+
+[[files]]
+file = "resourcepacks/Warm Glow.zip"
+hash = "1e504491eea3861247e04700f99d2dbd615ec5215f8c9107ded7ea56d96b515e"

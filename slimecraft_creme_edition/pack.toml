@@ -1,0 +1,14 @@
+name = "Slimecraft - Creme Edition"
+author = "BD103"
+version = "1.1.0"
+description = "A vanilla-like experience with performance optimizations and voice chat."
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2ebfaab77acfc3b40381f0a752e8669d35c87ed3bd7bdab8e3ae39229e755df9"
+
+[versions]
+fabric = "0.14.8"
+minecraft = "1.18.2"
