@@ -1,12 +1,13 @@
 name = "SC Storm"
 author = "BD103"
 version = "1.0.0"
+description = "An experimental modpack that brings anarchy to any Minecraft SMP."
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f4f6739bc46963e41cf44c7ba30f286c35cd6b952441756610f0ff07be55c145"
+hash = "9883a81542a9d0ef99b0130c3c49b0f7de45ad704f37bd35bb0edd8cee4f5207"
 
 [versions]
 forge = "40.1.74"

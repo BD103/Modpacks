@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "ba2b84c1bfd93e0cb02407fa116170238a5662fd9dc9325a0d36dbf282cfe069"
+hash = "e65202b74ce5786db92ec5cf13954a406dd539726817ec27eb4950ff3cb223f2"
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
@@ -40,16 +40,6 @@ hash = "68e10d6873f758522fd8d06a87fa31def1466e98a8b40ba6e487eb7e11513414"
 metafile = true
 
 [[files]]
-file = "mods/enhanced-celestials.pw.toml"
-hash = "6e4a34c104bf7f0754535a7738369b5da8ec28afa98fd7cfff583185da0a66ec"
-metafile = true
-
-[[files]]
-file = "mods/fastworkbench.pw.toml"
-hash = "93adbad9e632f375b4bc3511f0db7178daf3b060de636e4d003f2cd550713382"
-metafile = true
-
-[[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "3a34225cdccdc7990b272e178519280f5f05229ac1fb9fbe1ae04d2fd4755a96"
 metafile = true
@@ -72,11 +62,6 @@ metafile = true
 [[files]]
 file = "mods/mantle.pw.toml"
 hash = "4a328963752e63b16607d1d8372665b5d99bf21a1a515e75c9aae3302e9d5516"
-metafile = true
-
-[[files]]
-file = "mods/placebo.pw.toml"
-hash = "5a466fadca7f0d41082bd242cd0041ca87e4bfeb3472871169fa86be69e8b0d4"
 metafile = true
 
 [[files]]
